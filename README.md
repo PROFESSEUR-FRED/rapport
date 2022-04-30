@@ -14,7 +14,7 @@ cliquez sur debug dans le code .
 
 Le fichier principal main.dart est essentiellement composé d'une
 
--importation du module material.dart qui contient tous nos utilitaires dont on aura besoin.
+-importation du package material.dart qui contient tous nos utilitaires dont on aura besoin.
 
 Flutter présente 2 spécificités principales : Les widgets : ils permettent de décrire simplement le rendu final. Chaque objet est défini indépendamment des contraintes parentes. C'est son emplacement dans le code qui permettra de définir ses contraintes extérieures.
 
