@@ -1,6 +1,5 @@
 # rapport
-Le fonctionnement de flutter 
-Première utilisation de Flutter.
+Le fonctionnement de flutter un retour sur ma première utilisation de Flutter.
 
 La création de projet flutter peut se faire sous le terminal avec la commande :
 - flutter create nom_du_projet ou sous vscode 
@@ -48,3 +47,5 @@ pour le faire apparaître.
 
 bottomNavigationBar est une barre de navigation affichée en bas de Scaffold.
 Dans la plupart des cas d'utilisation, il s'agit d'un objet de BottomAppBar ou de BottomNativationBar.
+
+A tre bientot sur github!!!
